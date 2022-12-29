@@ -1,1 +1,2 @@
-# The Thrombophlebitis Treatments Models
+# Моделирование эффективности методов лечения тромбофлебита
+The Thrombophlebitis Treatments Models
