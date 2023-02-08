@@ -27,11 +27,11 @@
 Пример результатов в папке: results.
 
 Пример использования: 
-‘‘‘
+```
 python ttm.py sample_data.xlsx
-’’’
+```
 
 Или с уточнением выходной директории:
-‘‘‘
+```
 python ttm.py sample_data.xlsx –output results/
-’’’
+```
